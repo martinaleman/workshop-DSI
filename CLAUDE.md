@@ -97,25 +97,42 @@ business-years buffer. Keep some.
 
 ## 6. Current Holdings (Household View)
 
-> **⏳ Awaiting detailed holdings from the investor to finalize sizing.** Known so far:
+> **⏳ Holdings being provided account-by-account. Account 1 received; Accounts 2 & 3 pending.**
 
 1. **Pizza-chain LBO equity** — the dominant, illiquid, leveraged position (§2).
-2. **Private credit** — a large wedding gift, mostly deployed here. Provides income;
-   adds household illiquidity and credit risk. *Confirm lock-up, yield, and
-   underlying credit quality.*
-3. **Public-market liquid portfolio** — **mostly ex-employer's stock**, plus ETFs and
-   a few single names.
-   - ⚠️ **Ex-employer stock is a second concentration risk** sitting next to the
-     business. Single-name risk is uncompensated. Plan a staged trim.
-4. **New cash: $150k–$200k** — to be allocated now, mostly for growth.
+2. **Public-market liquid portfolio** — held across 3 accounts (one via the Panama
+   vehicle *Cerro Chame Ventures Corp.*). **Account 1 detailed below.** Ex-employer
+   stock concentration (per investor) presumably sits in Account 2 or 3 — confirm.
+3. **New cash: $150k–$200k** — to be allocated now, mostly for growth.
+
+### Account 1 — Banco General (Cerro Chame Ventures Corp., #14749) — **$854,069** (31 May 2026)
+
+| Bucket | Value | % acct | Holdings |
+|---|---|---|---|
+| Cash + Money Market | $163,802 | 19.1% | Dry powder |
+| Equities | $148,927 | 17.4% | MOAT $49k, Utilities (VPU) $44k, Health Care (VHT) $24k, S&P 500 (VOO) $17k, Berkshire B $15k |
+| Public credit / income funds | $398,781 | 46.5% | BP Dividendos $118k, Neuberger Strategic Income $115k, Wellington Credit Income $114k, Carlyle CLO $49k |
+| Private credit funds | $146,752 | 17.1% | Ares Multi-Asset Credit $49k, Ares Income Opps $48k, BlackRock Private Credit $49k |
+
+**Key read on Account 1:** ~**63% credit** (public + private), 19% cash, only ~17%
+equity — and the equity is **defensively tilted** (utilities/healthcare/wide-moat/
+Berkshire; minimal broad index, no international/EM).
+
+> ⚠️ **Hidden correlation:** A credit-heavy liquid book does **not** diversify away
+> from the pizza LBO — it partly *doubles down*. The LBO is a leveraged,
+> credit-/cycle-sensitive bet; CLOs, multi-asset credit, private credit, and
+> "strategic income" share that same credit-cycle risk. In a downturn the business
+> *and* the credit funds stall together. **True diversification = broad global
+> equity** (a growth-driven, different risk factor), which the household barely owns.
 
 ### Flags to address (priority order)
-1. **Don't add correlated/illiquid risk** on top of the pizza LBO.
-2. **Trim the ex-employer concentration** into a diversified core (mind tax/§8).
-3. **Keep a liquidity buffer** for the lean income years.
+1. **Don't add correlated/illiquid risk** on top of the pizza LBO (esp. *more credit*).
+2. **Fill the global-equity growth gap** — the new money's primary job.
+3. **Trim the ex-employer concentration** (in Account 2/3) into a diversified core.
+4. **Keep a liquidity buffer** for the lean income years (Account 1 cash helps).
 
-*(US-situs estate/withholding leakage is noted in §8 as a flag for the Panama
-advisor — not an input to the investment plan.)*
+*(US-situs estate/withholding leakage and the corporate-vehicle structure are noted
+in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 ---
 
