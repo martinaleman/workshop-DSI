@@ -30,7 +30,7 @@ loss of principal.
 | **Current role/income** | Owner-operator of an acquired business; **salary barely covers living expenses today.** Meaningful personal cash flow is 3–4 years out (debt paydown or exit). |
 | **Tax residence** | **Panama** (territorial tax system; USD economy). |
 | **Citizenship/tax status** | **Non-US person** (not a US citizen or green-card holder). → No PFIC problem, **but** US-situs assets carry US estate-tax and dividend-withholding exposure (see §8). |
-| **Investable liquid portfolio** | Existing market holdings + **$150k–$200k of new cash to deploy now.** |
+| **Investable liquid portfolio** | **~$967k existing** (3 accounts) + **$150k–$200k new cash** to deploy now → ~$1.12–1.17M liquid. |
 
 ---
 
@@ -97,12 +97,13 @@ business-years buffer. Keep some.
 
 ## 6. Current Holdings (Household View)
 
-> **⏳ Holdings being provided account-by-account. Account 1 received; Accounts 2 & 3 pending.**
+> **✅ All 3 accounts received (statements as of 31 May 2026). Consolidated below.**
 
 1. **Pizza-chain LBO equity** — the dominant, illiquid, leveraged position (§2).
-2. **Public-market liquid portfolio** — held across 3 accounts (one via the Panama
-   vehicle *Cerro Chame Ventures Corp.*). **Account 1 detailed below.** Ex-employer
-   stock concentration (per investor) presumably sits in Account 2 or 3 — confirm.
+   *Magnitude still to be confirmed.*
+2. **Public-market liquid portfolio (~$967k)** — across 3 accounts: Account 1
+   (Banco General, via the Panama vehicle *Cerro Chame Ventures Corp.*), Account 2
+   (E*TRADE personal), Account 3 (Morgan Stanley at Work / stock plan, personal).
 3. **New cash: $150k–$200k** — to be allocated now, mostly for growth.
 
 ### Account 1 — Banco General (Cerro Chame Ventures Corp., #14749) — **$854,069** (31 May 2026)
@@ -146,10 +147,43 @@ lives** (~$15k: Mexico, India, Europe) — Account 1 had none. Even here a littl
 *personal* name (structuring flag only). **No ex-employer concentration → expect it
 in Account 3.**
 
+### Account 3 — Morgan Stanley at Work / stock plan (personal, #…210) — **$64,287** (31 May 2026)
+
+| Holding | Shares | Value | Cost basis | Unrealized | Yield |
+|---|---|---|---|---|---|
+| **Morgan Stanley (MS)** — single stock | 300.65 | **$62,536** | $26,792 | **+$35,744 (+133%)** | 1.92% |
+| Cash (MS Private Bank) | — | $1,751 | — | — | — |
+
+**Key read on Account 3:** This is the **ex-employer concentration** — the investor's
+former employer is **Morgan Stanley**. ⚠️ It's not just single-name risk: **MS is a
+financial / investment bank**, so this is *financial-sector, credit-/market-cycle
+equity* — the **same risk factor** that already dominates the book (pizza LBO +
+credit funds + BDCs). Trimming MS does double duty: cuts single-name risk **and**
+reduces credit/market-cycle overweight. The +$35.7k gain is a soft obstacle —
+as a **non-US person**, US capital-gains tax generally doesn't apply to an NRA's US
+stock sales (Panama territorial); confirm with the Panama advisor, but this is an
+unusually **tax-easy concentration to unwind.**
+
+### Consolidated liquid balance sheet (all 3 accounts, ~$967k)
+
+| Asset class | Value | % liquid | Note |
+|---|---|---|---|
+| Cash + money market | ~$164k | 17.0% | Buffer (mostly Account 1) |
+| Equity | ~$256k | 26.5% | ~$62.5k is MS; Account 1 slice is defensive |
+| Public credit / income | ~$398k | 41.1% | Dominant sleeve |
+| Private credit | ~$146k | 15.1% | Ares ×2 + BlackRock |
+| Other alts | ~$3k | 0.3% | REIT/leverage/thematics (Account 2) |
+| **Total existing liquid** | **~$967k** | 100% | + $150–200k new → ~$1.12–1.17M |
+
+> **Consolidated headline:** ~**56% credit, 17% cash, ~27% equity** — and *truly
+> broad/growth* equity is only ~$30–40k. Backwards for a 26-yr-old with a 10+ yr
+> horizon whose dominant risk (the LBO) is already leveraged and cycle-sensitive.
+> **New money → broad global equity; trim MS into the same core.**
+
 ### Flags to address (priority order)
 1. **Don't add correlated/illiquid risk** on top of the pizza LBO (esp. *more credit*).
 2. **Fill the global-equity growth gap** — the new money's primary job.
-3. **Trim the ex-employer concentration** (in Account 2/3) into a diversified core.
+3. **Trim the Morgan Stanley concentration** (Account 3, $62.5k) into a diversified core — tax-easy for a non-US person.
 4. **Keep a liquidity buffer** for the lean income years (Account 1 cash helps).
 
 *(US-situs estate/withholding leakage and the corporate-vehicle structure are noted
@@ -226,11 +260,11 @@ in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 ## 11. Open Items / To Confirm
 
-- [ ] **Full current holdings** — tickers, sizes, cost basis (investor to provide next).
-- [ ] **Magnitudes** — rough value of pizza-chain equity vs. liquid portfolio vs. private credit, to size everything in %.
+- [x] **Full current holdings** — all 3 liquid accounts received & consolidated (§6).
+- [x] **Ex-employer stock** — identified: **Morgan Stanley (MS), $62.5k**, cost $26.8k, +133%, no restrictions noted (stock-plan account). Trim plan pending.
+- [ ] **Magnitude of the pizza-chain LBO equity** — to size the full balance sheet in %.
 - [ ] **Cash runway** — months of household expenses currently held in cash, given thin salary.
-- [ ] **Private-credit terms** — lock-up, yield, credit quality, liquidity windows.
-- [ ] **Ex-employer stock** — size, cost basis, any restrictions; trim plan.
+- [ ] **Private-credit terms** — lock-up, yield, credit quality, liquidity windows (Account 1 Ares/BlackRock funds).
 - [ ] **Business backstop?** — despite non-recourse debt, decide whether any reserve should be ring-fenced for the business years.
 - [ ] **Cross-border estate planning** — given married + US-situs assets; confirm wrappers/structures.
 - [ ] **Near-term goals** — home purchase, kids, etc. that should ring-fence capital.
