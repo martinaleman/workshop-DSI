@@ -235,7 +235,14 @@ in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 - **No ESG / ethical exclusions.** Pure return focus.
 - **No sector or asset prohibitions** (crypto fair game, sized appropriately).
-- **No stated thematic mandate.** Open to opportunistic themes; none committed.
+- **Committed satellite themes (≤15%, capped):** copper/mining, cybersecurity (the
+  *single* AI expression), and a Japan tilt. Open to opportunistic ideas within the cap.
+- **Thematic guardrails:**
+  - **No second QSR / consumer-cyclical single-name** (e.g., McDonald's) — it doubles
+    the pizza-LBO sector. Durable-brand ballast, if wanted, goes via staples (KO/XLP/VDC).
+  - **Collapse correlated AI bets into one** — don't stack semis + memory + cyber +
+    health-AI; they're the same factor.
+  - **Themes are overweights vs. a core that already owns them** — keep them capped.
 
 ---
 
@@ -250,17 +257,24 @@ in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 | Sleeve | Amount | % | Exposure (reference ticker) |
 |---|---:|---:|---|
-| US total market | $76,000 | 47.5% | VTI / VOO |
-| Developed ex-US | $46,000 | 28.75% | VEA / IXUS |
-| Emerging markets | $30,000 | 18.75% | VWO / IEMG |
-| Crypto (Bitcoin) | $8,000 | 5% | spot BTC |
+| Core — US total market | $64,000 | 40.0% | VTI / VOO |
+| Core — Developed ex-US | $39,000 | 24.4% | VEA / IXUS |
+| Core — Emerging markets | $25,000 | 15.6% | VWO / IEMG |
+| Satellite — Copper / mining | $10,000 | 6.25% | COPX / PICK |
+| Satellite — Cybersecurity (AI) | $8,000 | 5.0% | CIBR / BUG |
+| Satellite — Japan tilt | $6,000 | 3.75% | DXJ (hedged); optional split $3k w/ staples XLP/VDC |
+| Crypto (Bitcoin) | $8,000 | 5.0% | spot BTC |
 | **Total** | **$160,000** | 100% | |
 
-- **Deliberate ~52% US / ~48% ex-US tilt** (heavier ex-US than market-cap) to diversify
-  *away from* the existing US-financial/US-credit concentration.
-- **Execution:** equity core can be lump-summed (statistically optimal) or split into
-  2–3 monthly tranches to suit the dip-buying temperament; **DCA the crypto** over
-  ~3 months given volatility.
+- **Core $128k (80%) / satellite $24k (15%, at IPS cap) / crypto $8k (5%).** Core is
+  ~50% US / ~50% ex-US+EM — a deliberate global tilt away from the existing
+  US-financial/US-credit concentration.
+- **Satellite logic:** copper = real-asset diversifier + AI-power tailwind; cyber =
+  the *single* AI expression (semis/memory/health-AI deliberately NOT stacked); Japan =
+  region tilt. **McDonald's rejected** (QSR = same sector as the pizza LBO).
+- **Execution:** lump-sum the core/copper/cyber (or 2–3 monthly tranches to suit the
+  dip-buying temperament); **DCA the crypto** over ~3 months. Domicile/wrapper →
+  Panama advisor.
 
 ### B. Next move — trim Morgan Stanley ($62.5k) into the same core
 
