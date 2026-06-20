@@ -38,14 +38,16 @@ loss of principal.
 
 The investor's largest and most important exposure is **not** the liquid portfolio.
 It is **equity in a leveraged buyout (LBO) of a pizza chain in Panama**, funded with
-a large share of prior savings.
+a large share of prior savings. **Enterprise value ~$4.3M; equity ~$500k; ~$3.8M
+acquisition debt (≈8.6x EV/equity, non-recourse).** The $500k equity is **~31% of
+~$1.63M net worth** (ex-home) and behaves like a *highly leveraged* single-name bet.
 
 | Risk dimension | Status |
 |---|---|
-| **Concentration** | One company, one country (Panama), one sector (consumer / QSR). |
+| **Concentration** | One company, one country (Panama), one sector (consumer / QSR). ~31% of net worth. |
 | **Illiquidity** | No expected exit for **3–4 years** (via debt paydown or sale). |
-| **Leverage** | Significant acquisition debt amplifies both upside and downside. |
-| **Recourse** | ✅ **Non-recourse to the investor personally.** Downside is **capped at the equity invested** — lenders cannot pursue personal portfolio, home, or spouse's assets. |
+| **Leverage** | ~$3.8M acquisition debt on ~$500k equity (≈8.6x) — amplifies both upside and downside. |
+| **Recourse** | ✅ **Non-recourse to the investor personally.** Downside is **capped at the ~$500k equity** — lenders cannot pursue personal portfolio, home, or spouse's assets. |
 | **Correlation to human capital** | High — it is also the investor's job and current salary. |
 
 **Implication (the core thesis of this whole plan):** The household balance sheet
@@ -77,21 +79,26 @@ profile.
 | **Net guidance** | Keep the liquid portfolio **growth-oriented but genuinely diversified and liquid.** The aggression budget is largely "spent" on the pizza LBO; the liquid book is the counterweight that keeps the family solvent and flexible while that bet plays out. |
 
 **Behavioral note:** The contrarian "add during drawdowns" instinct is a real edge —
-but only with dry powder. Given thin current income, dry powder doubles as a
-business-years buffer. Keep some.
+but only with dry powder. The investor declines a *dedicated* buffer, but the existing
+**~$164k cash (Account 1)** already serves as both dip-powder and an informal
+business-years cushion, so the edge is funded without earmarking new money.
 
 ---
 
 ## 5. Liquidity & Illiquidity Budget
 
-- **Household illiquidity is already very high** (pizza-chain equity + the
-  private-credit wedding gift, see §6).
+- **Household illiquidity is concentrated in the pizza-chain equity (~$500k).** The
+  private credit (Account 1 Ares/BlackRock, ~$146k) turns out to be **fully liquid —
+  no lock-ups, exit any time** — though the investor intends to **keep** it as income.
 - **Guidance for the liquid book:** Keep incremental **new** money **liquid.** Resist
-  adding more lock-ups (PE/VC, more private credit) until (a) the business de-risks /
-  exits, or (b) income normalizes. The illiquidity premium is not worth it when
-  flexibility is this valuable and concentration is already this high.
-- **Maintain a cash / short-duration buffer** to cover lean business years so the
-  investor is **never a forced seller.**
+  adding *new* lock-ups (PE/VC, gated funds) until (a) the business de-risks / exits,
+  or (b) income normalizes. The illiquidity premium is not worth it when flexibility
+  is this valuable and concentration is already this high.
+- **Cash buffer — investor's stance:** Does **not** want a dedicated cash buffer;
+  comfortable selling a liquid holding if cash is ever needed. This is acceptable
+  here because the household *already* holds **~$164k cash + ~$544k of fully-liquid
+  credit funds**, so forced-selling risk is low regardless. → **No need to park new
+  money in cash; deploy it.**
 
 ---
 
@@ -232,29 +239,50 @@ in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 ---
 
-## 10. Working Model Portfolio (Illustrative — Liquid Book Only)
+## 10. Working Model Portfolio & Active Plan
 
-> For the liquid portfolio (existing market holdings + new $150–200k), **excluding**
-> the pizza-chain equity and the private-credit gift, which already supply the
-> illiquid/alts and income exposure at the household level. Directional, to be
-> tailored once full holdings are in.
+### A. Decided — deploy the new $160k now (fully invested; no new cash drag)
+
+> All into the diversification the household lacks: **broad, global, growth equity
+> uncorrelated to the credit/economic cycle**, plus a small asymmetric crypto sleeve.
+> Tickers are *exposure references*; domicile/wrapper (US-listed vs. Irish UCITS) is
+> the **Panama advisor's call** and does not change the exposures.
+
+| Sleeve | Amount | % | Exposure (reference ticker) |
+|---|---:|---:|---|
+| US total market | $76,000 | 47.5% | VTI / VOO |
+| Developed ex-US | $46,000 | 28.75% | VEA / IXUS |
+| Emerging markets | $30,000 | 18.75% | VWO / IEMG |
+| Crypto (Bitcoin) | $8,000 | 5% | spot BTC |
+| **Total** | **$160,000** | 100% | |
+
+- **Deliberate ~52% US / ~48% ex-US tilt** (heavier ex-US than market-cap) to diversify
+  *away from* the existing US-financial/US-credit concentration.
+- **Execution:** equity core can be lump-summed (statistically optimal) or split into
+  2–3 monthly tranches to suit the dip-buying temperament; **DCA the crypto** over
+  ~3 months given volatility.
+
+### B. Next move — trim Morgan Stanley ($62.5k) into the same core
+
+Stage in 2–3 tranches; route proceeds into the same US/ex-US/EM split. Takes broad-
+growth equity from ~$30–40k to **~$215k** and cuts the financial-sector/credit-cycle
+overweight. Tax-easy for a non-US person (confirm with Panama advisor).
+
+### C. Standing targets (liquid book ex-pizza-equity)
 
 | Sleeve | Indicative weight | Purpose |
 |---|---|---|
-| **Global equity index core** | 55–70% | Diversified compounding engine, uncorrelated to the Panama business (fund domicile/wrapper → Panama advisor) |
-| **Single-stock / active satellites** | 5–15% | Conviction bets, *capped* — and the destination for a wound-down ex-employer position |
-| **Cash / short-duration buffer** | 15–25% | Dry powder + lean-year liquidity so the business is never a forced-sale trigger |
+| **Global equity index core** | 60–75% | Diversified compounding engine, uncorrelated to the Panama business |
+| **Single-stock / active satellites** | 5–15% | Conviction bets, *capped* |
+| **Income / credit (existing)** | balance | Already large; **do not add** — let it run as the income engine |
 | **Crypto** | 0–5% | Asymmetric, volatility-budgeted bet |
 
-> **No incremental private/illiquid alts for now** — the household already holds the
-> pizza-chain equity (illiquid/leveraged) and private credit (illiquid/income). Revisit
-> after the business de-risks or exits.
+> **No dedicated cash buffer earmarked** (investor's choice); existing ~$164k cash +
+> fully-liquid credit already cover liquidity. **No incremental private/illiquid alts**
+> until the business de-risks or exits.
 
-**Sequencing:**
-1. Build the diversified, tax-aware index core with the new $150–200k.
-2. Stage down the ex-employer concentration into that core.
-3. Hold the liquidity buffer for the lean business years.
-4. Only consider adding lock-ups once income normalizes or the business exits.
+**Sequencing:** (1) deploy the $160k per §A; (2) stage down MS per §B; (3) stop adding
+to credit; (4) revisit alts only once income normalizes or the business exits.
 
 ---
 
@@ -262,10 +290,10 @@ in §8 as flags for the Panama advisor — not inputs to the investment plan.)*
 
 - [x] **Full current holdings** — all 3 liquid accounts received & consolidated (§6).
 - [x] **Ex-employer stock** — identified: **Morgan Stanley (MS), $62.5k**, cost $26.8k, +133%, no restrictions noted (stock-plan account). Trim plan pending.
-- [ ] **Magnitude of the pizza-chain LBO equity** — to size the full balance sheet in %.
-- [ ] **Cash runway** — months of household expenses currently held in cash, given thin salary.
-- [ ] **Private-credit terms** — lock-up, yield, credit quality, liquidity windows (Account 1 Ares/BlackRock funds).
-- [ ] **Business backstop?** — despite non-recourse debt, decide whether any reserve should be ring-fenced for the business years.
+- [x] **Magnitude of the pizza-chain LBO equity** — ~$500k equity on ~$4.3M EV (~31% of net worth).
+- [x] **Cash runway** — investor wants **no dedicated buffer**; will sell liquid holdings if needed (existing ~$164k cash + liquid credit make this safe).
+- [x] **Private-credit terms** — **no lock-ups, fully liquid, exit any time**; investor intends to keep it for income.
+- [x] **Business backstop?** — none ring-fenced; non-recourse debt + ample liquid assets make a dedicated reserve unnecessary.
 - [ ] **Cross-border estate planning** — given married + US-situs assets; confirm wrappers/structures.
 - [ ] **Near-term goals** — home purchase, kids, etc. that should ring-fence capital.
 
