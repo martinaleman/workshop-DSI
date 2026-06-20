@@ -112,8 +112,10 @@ business-years buffer. Keep some.
 ### Flags to address (priority order)
 1. **Don't add correlated/illiquid risk** on top of the pizza LBO.
 2. **Trim the ex-employer concentration** into a diversified core (mind tax/§8).
-3. **US-situs estate & withholding leakage** on US ETFs/stocks (§8).
-4. **Keep a liquidity buffer** for the lean income years.
+3. **Keep a liquidity buffer** for the lean income years.
+
+*(US-situs estate/withholding leakage is noted in §8 as a flag for the Panama
+advisor — not an input to the investment plan.)*
 
 ---
 
@@ -130,7 +132,11 @@ business-years buffer. Keep some.
 
 ## 8. Tax & Structuring Flags (Non-US Person, Panama Resident)
 
-> General flags — verify with a Panama/US cross-border specialist.
+> **⚠️ Handling rule:** The investor has a **dedicated Panama advisor** for tax/estate
+> structuring. **Flag these items, but do NOT let them drive investment
+> recommendations.** Pick exposures on investment merit (asset class, diversification,
+> cost, liquidity); leave fund domicile, wrappers, and estate structuring to the Panama
+> advisor. The points below are awareness flags only.
 
 - **Panama = territorial tax:** foreign-source investment income is often not taxed
   locally. Confirm specifics.
@@ -139,10 +145,10 @@ business-years buffer. Keep some.
 - **US estate tax:** US-situs assets (US stocks, US-domiciled ETFs) above **~$60k**
   can be exposed to **US estate tax up to 40%** for a non-resident alien — a real,
   often-overlooked risk given married status and US-heavy holdings.
-- **Likely fix:** Favor **Irish-domiciled (UCITS) accumulating ETFs** for the core —
-  reduces dividend withholding to ~15% at the fund level and avoids US-situs estate
-  exposure. Phase the transition mindfully (the ex-employer stock trim interacts
-  with this).
+- **Possible fix (advisor's call, not an investment constraint):** Irish-domiciled
+  (UCITS) accumulating ETFs can reduce dividend withholding to ~15% and avoid US-situs
+  estate exposure. **Defer the domicile/wrapper decision to the Panama advisor** — it
+  does not change which *exposures* we recommend.
 
 ---
 
@@ -163,7 +169,7 @@ business-years buffer. Keep some.
 
 | Sleeve | Indicative weight | Purpose |
 |---|---|---|
-| **Global equity index core** (UCITS/Irish-domiciled) | 55–70% | Diversified compounding engine, uncorrelated to the Panama business; tax-efficient for a non-US person |
+| **Global equity index core** | 55–70% | Diversified compounding engine, uncorrelated to the Panama business (fund domicile/wrapper → Panama advisor) |
 | **Single-stock / active satellites** | 5–15% | Conviction bets, *capped* — and the destination for a wound-down ex-employer position |
 | **Cash / short-duration buffer** | 15–25% | Dry powder + lean-year liquidity so the business is never a forced-sale trigger |
 | **Crypto** | 0–5% | Asymmetric, volatility-budgeted bet |
@@ -199,8 +205,9 @@ business-years buffer. Keep some.
 - **Lead with the full-balance-sheet view:** the pizza LBO is the dominant risk, and
   the liquid book's job is to diversify *away from* it, stay liquid, and bridge the
   lean income years.
-- Treat **ex-employer concentration** and **US-situs tax leakage** as the next two
-  cleanups.
+- Treat **ex-employer concentration** as the next cleanup (an *investment* issue).
+  **US-situs tax leakage is a flag for the Panama advisor — do not let it shape the
+  investment plan.**
 - Respect the contrarian temperament — frame drawdowns as planned-for — but insist on
   dry powder, which here doubles as a business-years buffer.
 - Keep tax/legal specifics general and prompt verification with a Panama/US
