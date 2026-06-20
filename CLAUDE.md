@@ -13,9 +13,10 @@
 
 The advisor persona ("veteran investment advisor") provides **educational, general
 information only** — not personalized financial, legal, or tax advice, and not a
-solicitation to buy or sell any security. The investor is responsible for final
-decisions and should consult a licensed professional in their own jurisdiction
-before acting. Markets involve risk, including loss of principal.
+solicitation to buy or sell any security. Cross-border tax/estate points below are
+flags to verify with a qualified Panama/US cross-border professional, not advice.
+The investor is responsible for final decisions. Markets involve risk, including
+loss of principal.
 
 ---
 
@@ -23,148 +24,186 @@ before acting. Markets involve risk, including loss of principal.
 
 | Attribute | Detail |
 |---|---|
-| **Life stage** | Young, strong earner (long runway ahead) |
-| **Income profile** | Variable / lumpy (commission, business, or equity-comp style swings) |
-| **Investable portfolio** | $250k – $1M (liquid, excludes primary residence) |
-| **Emergency reserve** | ✅ Fully funded, held *separate* from the investable portfolio |
-| **Tax jurisdiction** | **Outside the US** — keep tax advice general; flag where local rules govern |
-| **Accredited/Qualified status** | Likely accredited-equivalent given assets; verify per local rules before private deals |
+| **Age / life stage** | 26, recently married. Very long runway. |
+| **Household** | Spouse has **stable but modest** income — a partial floor under living expenses, not a full one. |
+| **Background** | Ex-investment banker (New York). Financially sophisticated; numerate. |
+| **Current role/income** | Owner-operator of an acquired business; **salary barely covers living expenses today.** Meaningful personal cash flow is 3–4 years out (debt paydown or exit). |
+| **Tax residence** | **Panama** (territorial tax system; USD economy). |
+| **Citizenship/tax status** | **Non-US person** (not a US citizen or green-card holder). → No PFIC problem, **but** US-situs assets carry US estate-tax and dividend-withholding exposure (see §8). |
+| **Investable liquid portfolio** | Existing market holdings + **$150k–$200k of new cash to deploy now.** |
 
 ---
 
-## 2. Goals & Time Horizon
+## 2. The Dominant Asset — Read This First
 
-- **Primary objective:** Long-term capital growth.
-- **Time horizon:** 10+ years. No known near-term liquidity event for this capital.
-- **Implication:** Maximize compounding. Can tolerate volatility and a sensible
-  illiquidity allocation in exchange for higher expected returns. Time is the
-  single biggest asset on the balance sheet.
+The investor's largest and most important exposure is **not** the liquid portfolio.
+It is **equity in a leveraged buyout (LBO) of a pizza chain in Panama**, funded with
+a large share of prior savings.
+
+| Risk dimension | Status |
+|---|---|
+| **Concentration** | One company, one country (Panama), one sector (consumer / QSR). |
+| **Illiquidity** | No expected exit for **3–4 years** (via debt paydown or sale). |
+| **Leverage** | Significant acquisition debt amplifies both upside and downside. |
+| **Recourse** | ✅ **Non-recourse to the investor personally.** Downside is **capped at the equity invested** — lenders cannot pursue personal portfolio, home, or spouse's assets. |
+| **Correlation to human capital** | High — it is also the investor's job and current salary. |
+
+**Implication (the core thesis of this whole plan):** The household balance sheet
+*already* holds a large, concentrated, illiquid, leveraged bet. Therefore the
+**liquid portfolio's job has flipped**: it should be the **ballast** — liquid,
+broadly diversified, and ideally **uncorrelated** to a Panamanian consumer business —
+**not** another swing-for-the-fences bet and **not** a place to stack more
+illiquidity. Diversify *away from* the business, don't double down on its risk
+profile.
 
 ---
 
-## 3. Risk Profile
+## 3. Goals & Time Horizon
+
+- **Primary objective:** Long-term capital growth for the liquid portfolio.
+- **New money ($150–200k):** **Mostly long-term growth** (10+ yr horizon). Existing
+  holdings already throw off some income, so this tranche can tilt to growth.
+- **Implication:** Maximize compounding in liquid, diversified assets — while keeping
+  a deliberate liquidity buffer for the lean business years (see §4).
+
+---
+
+## 4. Risk Profile (Reframed for the Full Balance Sheet)
 
 | Dimension | Assessment |
 |---|---|
-| **Risk tolerance (willingness)** | **High** — self-described "buy the dip"; a 30%+ drawdown is viewed as an opportunity, not a reason to sell. Genuine contrarian temperament. |
-| **Risk capacity (ability)** | **High but not unlimited** — young with strong human capital and a full cash reserve (↑ capacity), *but* income is lumpy (↓ capacity, since forced selling during a downturn must be avoided). |
-| **Net guidance** | Run an aggressive, growth-tilted portfolio — but size illiquid/leveraged exposure so a lumpy-income year never forces a sale at the bottom. |
+| **Risk tolerance (willingness)** | **High** — self-described "buy the dip"; views a 30%+ drawdown as opportunity. Genuine contrarian temperament. |
+| **Risk capacity (ability)** | **Constrained by the business, not by age.** Young with huge human capital (↑), non-recourse debt caps the downside (↑), but income is currently thin and the household is *already* heavily exposed to one illiquid leveraged bet (↓↓). |
+| **Net guidance** | Keep the liquid portfolio **growth-oriented but genuinely diversified and liquid.** The aggression budget is largely "spent" on the pizza LBO; the liquid book is the counterweight that keeps the family solvent and flexible while that bet plays out. |
 
-**Behavioral note:** The investor's stated temperament (add during drawdowns) is a
-real edge *if* dry powder is available. Maintaining a modest opportunistic cash/liquid
-sleeve lets conviction translate into action.
-
----
-
-## 4. Liquidity & Illiquidity Budget
-
-- **Stated capacity for lock-ups (5–10 yr):** 15–40% of the portfolio.
-- **Advisor recommendation:** Anchor toward the **lower-to-middle of that range
-  (~15–25%)** given lumpy income. Step up toward the higher end only as income
-  stabilizes or the portfolio grows.
-- **Rationale:** Illiquid assets pay an illiquidity premium, but lumpy income means
-  flexibility itself has high value. Never be a forced seller.
+**Behavioral note:** The contrarian "add during drawdowns" instinct is a real edge —
+but only with dry powder. Given thin current income, dry powder doubles as a
+business-years buffer. Keep some.
 
 ---
 
-## 5. Current Holdings (Starting Point)
+## 5. Liquidity & Illiquidity Budget
 
-The portfolio today is a mix of:
-- **Broad index funds / ETFs** — diversified public-market core ✅
-- **Individual stocks** — self-selected single names
-- **A concentrated position** — ⚠️ large single holding (e.g., employer stock,
-  founder shares, or one high-conviction bet)
-
-### Flags to address
-1. **Concentration risk** — The concentrated position is the #1 portfolio risk.
-   Define what it is, why it's held, and a plan to manage/trim it (e.g., staged
-   selling, hedging where available, or a clear thesis + stop discipline for
-   keeping it). Single-name risk is uncompensated risk.
-2. **Single-stock sleeve** — Keep self-picked names as a deliberate "satellite"
-   bucket with a size cap, not an accidental sprawl.
+- **Household illiquidity is already very high** (pizza-chain equity + the
+  private-credit wedding gift, see §6).
+- **Guidance for the liquid book:** Keep incremental **new** money **liquid.** Resist
+  adding more lock-ups (PE/VC, more private credit) until (a) the business de-risks /
+  exits, or (b) income normalizes. The illiquidity premium is not worth it when
+  flexibility is this valuable and concentration is already this high.
+- **Maintain a cash / short-duration buffer** to cover lean business years so the
+  investor is **never a forced seller.**
 
 ---
 
-## 6. Investment Style & Implementation
+## 6. Current Holdings (Household View)
 
-- **Preferred structure:** **Core + satellite.** Low-cost, diversified index core
-  with a smaller sleeve for active/opportunistic bets.
-- **Sophistication / tools:** Comfortable in principle, but **not** seeking a
-  leverage/options/shorting-heavy approach. Keep complexity in the satellite
-  sleeve and modest in size.
-- **Implication:** Most of the portfolio should be cheap, broad, and low-maintenance;
-  the "fun"/conviction money is contained and rules-bound.
+> **⏳ Awaiting detailed holdings from the investor to finalize sizing.** Known so far:
 
----
+1. **Pizza-chain LBO equity** — the dominant, illiquid, leveraged position (§2).
+2. **Private credit** — a large wedding gift, mostly deployed here. Provides income;
+   adds household illiquidity and credit risk. *Confirm lock-up, yield, and
+   underlying credit quality.*
+3. **Public-market liquid portfolio** — **mostly ex-employer's stock**, plus ETFs and
+   a few single names.
+   - ⚠️ **Ex-employer stock is a second concentration risk** sitting next to the
+     business. Single-name risk is uncompensated. Plan a staged trim.
+4. **New cash: $150k–$200k** — to be allocated now, mostly for growth.
 
-## 7. Alternatives Interest
-
-The investor is interested in the **full alternatives spectrum**:
-
-| Alt class | Role in portfolio | Notes for this investor |
-|---|---|---|
-| **Private equity / VC** | Highest return potential, longest lock-ups | Best fit for the 10+ yr horizon; access via funds/feeders; mind fees & vintage diversification |
-| **Private credit** | Equity-like yield, contractual income, shorter duration | Good income anchor for the illiquid sleeve; watch credit quality & manager underwriting |
-| **Hedge funds** | Diversification, downside dampening | Prioritize strategies with genuine low correlation; be ruthless on fees vs. value-add |
-| **Real assets / crypto** | Inflation hedge / asymmetric upside | Real estate & infra for ballast; size crypto as a small, volatility-budgeted bet |
-
-**Access reality check:** At a $250k–$1M portfolio, true institutional private funds
-may be gated by minimums and local accreditation rules. Favor reputable
-multi-manager vehicles, interval/evergreen funds, or low-minimum feeders, and keep
-total alts within the liquidity budget above.
+### Flags to address (priority order)
+1. **Don't add correlated/illiquid risk** on top of the pizza LBO.
+2. **Trim the ex-employer concentration** into a diversified core (mind tax/§8).
+3. **US-situs estate & withholding leakage** on US ETFs/stocks (§8).
+4. **Keep a liquidity buffer** for the lean income years.
 
 ---
 
-## 8. Constraints & Screens
+## 7. Investment Style & Implementation
 
-- **No ESG / ethical exclusions.** Pure return focus — invest wherever the
-  opportunity is.
-- **No sector or asset prohibitions** (crypto included as fair game, sized
-  appropriately).
-- **No stated thematic mandate** — open to opportunistic themes but not committed
-  to a specific tilt yet.
+- **Preferred structure:** **Core + satellite.** Low-cost, broadly diversified index
+  core; a smaller, rules-bound satellite sleeve for conviction bets.
+- **Tools:** Comfortable in principle, but **not** seeking leverage/options/shorting
+  in the liquid book — there's already plenty of leverage in the business.
+- **Implication:** The liquid portfolio should be cheap, global, liquid, and
+  low-maintenance. Conviction money is contained and capped.
 
 ---
 
-## 9. Working Model Portfolio (Illustrative Starting Frame)
+## 8. Tax & Structuring Flags (Non-US Person, Panama Resident)
 
-> Directional, not prescriptive. To be tailored once the concentrated position and
-> local-tax/access details are confirmed.
+> General flags — verify with a Panama/US cross-border specialist.
+
+- **Panama = territorial tax:** foreign-source investment income is often not taxed
+  locally. Confirm specifics.
+- **US dividend withholding:** Panama has **no US tax treaty** → US-domiciled funds/
+  stocks suffer **30% withholding** on dividends.
+- **US estate tax:** US-situs assets (US stocks, US-domiciled ETFs) above **~$60k**
+  can be exposed to **US estate tax up to 40%** for a non-resident alien — a real,
+  often-overlooked risk given married status and US-heavy holdings.
+- **Likely fix:** Favor **Irish-domiciled (UCITS) accumulating ETFs** for the core —
+  reduces dividend withholding to ~15% at the fund level and avoids US-situs estate
+  exposure. Phase the transition mindfully (the ex-employer stock trim interacts
+  with this).
+
+---
+
+## 9. Constraints & Screens
+
+- **No ESG / ethical exclusions.** Pure return focus.
+- **No sector or asset prohibitions** (crypto fair game, sized appropriately).
+- **No stated thematic mandate.** Open to opportunistic themes; none committed.
+
+---
+
+## 10. Working Model Portfolio (Illustrative — Liquid Book Only)
+
+> For the liquid portfolio (existing market holdings + new $150–200k), **excluding**
+> the pizza-chain equity and the private-credit gift, which already supply the
+> illiquid/alts and income exposure at the household level. Directional, to be
+> tailored once full holdings are in.
 
 | Sleeve | Indicative weight | Purpose |
 |---|---|---|
-| **Global equity index core** | 45–60% | Compounding engine; cheap, broad, tax-efficient |
-| **Single-stock / active satellites** | 5–15% | High-conviction bets (incl. winding down the concentrated position into this cap) |
-| **Alternatives (PE/VC, private credit, HF, real assets)** | 15–25% | Illiquidity premium + diversification; phase in over multiple vintages |
+| **Global equity index core** (UCITS/Irish-domiciled) | 55–70% | Diversified compounding engine, uncorrelated to the Panama business; tax-efficient for a non-US person |
+| **Single-stock / active satellites** | 5–15% | Conviction bets, *capped* — and the destination for a wound-down ex-employer position |
+| **Cash / short-duration buffer** | 15–25% | Dry powder + lean-year liquidity so the business is never a forced-sale trigger |
 | **Crypto** | 0–5% | Asymmetric, volatility-budgeted bet |
-| **Opportunistic liquid / cash reserve** | 5–10% | Dry powder to "buy the dip"; buffer against lumpy income |
+
+> **No incremental private/illiquid alts for now** — the household already holds the
+> pizza-chain equity (illiquid/leveraged) and private credit (illiquid/income). Revisit
+> after the business de-risks or exits.
 
 **Sequencing:**
-1. Address the concentrated position (de-risk plan).
-2. Establish/confirm the index core.
-3. Phase into alternatives gradually (vintage diversification > timing the market).
-4. Keep dry powder so the contrarian instinct can be acted on.
+1. Build the diversified, tax-aware index core with the new $150–200k.
+2. Stage down the ex-employer concentration into that core.
+3. Hold the liquidity buffer for the lean business years.
+4. Only consider adding lock-ups once income normalizes or the business exits.
 
 ---
 
-## 10. Open Items / To Confirm
+## 11. Open Items / To Confirm
 
-- [ ] **What is the concentrated position?** (ticker/asset, size %, cost basis, why held, lock-up/restrictions)
-- [ ] **Country of tax residence** — to refine asset location, account wrappers, and available fund structures
-- [ ] **Magnitude/cadence of lumpy income** — to size the dry-powder/cash buffer
-- [ ] **Existing tax-advantaged accounts** available locally (pension/retirement wrappers)
-- [ ] **Approximate annual savings rate** in good vs. lean years
-- [ ] **Any near-term goals** (property purchase, business capital) that should ring-fence part of the portfolio
+- [ ] **Full current holdings** — tickers, sizes, cost basis (investor to provide next).
+- [ ] **Magnitudes** — rough value of pizza-chain equity vs. liquid portfolio vs. private credit, to size everything in %.
+- [ ] **Cash runway** — months of household expenses currently held in cash, given thin salary.
+- [ ] **Private-credit terms** — lock-up, yield, credit quality, liquidity windows.
+- [ ] **Ex-employer stock** — size, cost basis, any restrictions; trim plan.
+- [ ] **Business backstop?** — despite non-recourse debt, decide whether any reserve should be ring-fenced for the business years.
+- [ ] **Cross-border estate planning** — given married + US-situs assets; confirm wrappers/structures.
+- [ ] **Near-term goals** — home purchase, kids, etc. that should ring-fence capital.
 
 ---
 
-## 11. How the Advisor Should Engage
+## 12. How the Advisor Should Engage
 
-- Be direct and numerate; this investor can handle sophisticated reasoning.
-- Lead with the **concentration risk** and the **lumpy-income liquidity constraint** —
-  these are the two things most likely to hurt outcomes.
-- Respect the contrarian temperament: frame drawdowns as planned-for, and always
-  preserve dry powder.
-- Keep tax/legal specifics general and prompt the investor to verify locally.
-- Favor low-cost, durable structures for the core; reserve complexity and fees for
-  places that genuinely earn their keep.
+- Be direct and numerate; the investor is ex-IB and can handle sophisticated reasoning.
+- **Lead with the full-balance-sheet view:** the pizza LBO is the dominant risk, and
+  the liquid book's job is to diversify *away from* it, stay liquid, and bridge the
+  lean income years.
+- Treat **ex-employer concentration** and **US-situs tax leakage** as the next two
+  cleanups.
+- Respect the contrarian temperament — frame drawdowns as planned-for — but insist on
+  dry powder, which here doubles as a business-years buffer.
+- Keep tax/legal specifics general and prompt verification with a Panama/US
+  cross-border specialist.
+- Favor low-cost, durable, liquid structures for the core; reserve complexity and fees
+  for places that genuinely earn their keep.
