@@ -127,18 +127,24 @@ Berkshire; minimal broad index, no international/EM).
 
 ### Account 2 — E*TRADE / Morgan Stanley (personal name, #…202) — **$48,765** (31 May 2026)
 
+> Full ETF list reconciled to the cent ($34,476.16).
+
 | Bucket | Value | % acct | Holdings |
 |---|---|---|---|
-| Stocks (common) | $14,177 | 29.1% | NVDA $8.4k, GOOGL $3.4k, AAPL $1.9k, NU $0.3k, + tiny: F/BLX/BBD/TGB |
-| ETFs & CEFs | $34,476 | 70.7% | VOO $11.1k, NTSX $1.6k, VNQ $1.0k, VIG $0.5k, VTWG $0.3k, **+ ~$20k ETFs (page not yet received)** |
+| Stocks (common) | $14,177 | 29.1% | NVDA $8.4k, GOOGL $3.4k, AAPL $1.9k, NU $0.3k, + tiny F/BLX/BBD/TGB |
+| Equity ETFs | $30,213 | — | VOO $11.1k, **FLMX (Mexico) $7.5k, FLIN (India) $6.4k, IEUR (Europe) $1.2k**, IWF $1.0k, VIG/MOAT $0.5k ea, IMCG/QQQM/SFY/VTWG/LIT ~$0.3–0.6k ea, TAN/SPYY tiny |
+| Credit ETFs | $1,661 | — | ARCC (Ares BDC) $1.3k, HYG $0.3k, OBDC (Blue Owl BDC) $0.07k |
+| Alt ETFs | $2,602 | — | NTSX (90/60 lev.) $1.6k, VNQ (REIT) $1.0k, SILJ $0.03k |
 | Cash/MMF | $112 | 0.2% | — |
 
-**Key read on Account 2:** ~**91% equity**, growth/tech-tilted (NVDA the largest
-single name) — the household's *only* real growth sleeve, but **tiny (~$49k, ~5% of
-Account 1).** Confirms the imbalance: ~$854k credit/income-heavy vs. ~$49k growth
-equity. **⏳ Missing ~$20k of ETFs (one statement page not received).** Held in
-*personal* name (vs. the corporate vehicle in Account 1) — structuring flag only.
-**No ex-employer concentration here → expect it in Account 3.**
+**Key read on Account 2:** ~**91% equity**, growth/tech-tilted (NVDA largest single
+name) — the household's *only* real growth sleeve, but **tiny (~$49k, ~5% of
+Account 1).** This account is also where the household's **international/EM equity
+lives** (~$15k: Mexico, India, Europe) — Account 1 had none. Even here a little
+**credit reflexively reappears** (ARCC/OBDC BDCs, HYG). Plus small thematics
+(lithium/solar/silver) and leverage (NTSX) — a satellite/tinkering account. Held in
+*personal* name (structuring flag only). **No ex-employer concentration → expect it
+in Account 3.**
 
 ### Flags to address (priority order)
 1. **Don't add correlated/illiquid risk** on top of the pizza LBO (esp. *more credit*).
