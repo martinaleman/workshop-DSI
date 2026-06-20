@@ -125,6 +125,21 @@ Berkshire; minimal broad index, no international/EM).
 > *and* the credit funds stall together. **True diversification = broad global
 > equity** (a growth-driven, different risk factor), which the household barely owns.
 
+### Account 2 — E*TRADE / Morgan Stanley (personal name, #…202) — **$48,765** (31 May 2026)
+
+| Bucket | Value | % acct | Holdings |
+|---|---|---|---|
+| Stocks (common) | $14,177 | 29.1% | NVDA $8.4k, GOOGL $3.4k, AAPL $1.9k, NU $0.3k, + tiny: F/BLX/BBD/TGB |
+| ETFs & CEFs | $34,476 | 70.7% | VOO $11.1k, NTSX $1.6k, VNQ $1.0k, VIG $0.5k, VTWG $0.3k, **+ ~$20k ETFs (page not yet received)** |
+| Cash/MMF | $112 | 0.2% | — |
+
+**Key read on Account 2:** ~**91% equity**, growth/tech-tilted (NVDA the largest
+single name) — the household's *only* real growth sleeve, but **tiny (~$49k, ~5% of
+Account 1).** Confirms the imbalance: ~$854k credit/income-heavy vs. ~$49k growth
+equity. **⏳ Missing ~$20k of ETFs (one statement page not received).** Held in
+*personal* name (vs. the corporate vehicle in Account 1) — structuring flag only.
+**No ex-employer concentration here → expect it in Account 3.**
+
 ### Flags to address (priority order)
 1. **Don't add correlated/illiquid risk** on top of the pizza LBO (esp. *more credit*).
 2. **Fill the global-equity growth gap** — the new money's primary job.
